@@ -1,0 +1,190 @@
+.head{
+    align-items: center;
+}
+.link{
+    display: flex;
+    justify-content: space-evenly;
+    text-decoration: none;
+}
+.heading{
+    text-align: center;
+}
+.left{
+writing-mode: vertical-rl;
+}
+.img{
+    height: 200px;
+    width: 400px;
+
+}
+.home{
+    display: grid;
+ grid-template-columns: 1fr 60px;
+ gap: 20px;
+position: relative;
+ left: 380px;
+ height: 400px;
+ width: 200px;
+ 
+}
+.pic{  
+flex-direction: row;
+width: 600px;
+height: 300px;
+}
+.pic img{
+    width: 200px;
+    height: 100px;
+}
+.laa{
+    
+    width: 600px;
+    height: 300px; 
+    position: relative;
+    flex-direction: row;
+}
+.laa img{
+    width: 200px;
+    height: 100px; 
+}
+.tech{
+    text-decoration: underline;
+}
+.bhood{
+    width: 300px;
+    height: 150px;
+}
+.bh{
+    text-decoration: underline;
+}
+.b2{
+    width: 400px;
+    height: 300px;
+    
+}
+.b3{
+    text-decoration: underline;
+}
+.b1{
+    display: flex;
+    flex-direction: column;
+}
+.hw{
+    width: 300px;
+    height: 150px;
+}
+.hw2{
+    text-decoration: underline;
+    
+}
+.advertisment {
+    height: 450px;
+    width: 300px;
+    border: 1px solid;
+   position: relative;
+   top: -2400px;
+   left: 900px;
+}
+.advertisment h4 {
+    margin-top: 170px;
+    margin-left: 110px;
+  }
+ 
+  .pics{
+    width: 200px;
+    height: 100px;
+  }
+  .ls{
+    width: 300px;
+    height: 30px;
+    margin-bottom: 50px;
+  }
+  .grid{
+    display: grid;
+    grid-template-columns: 30% 30% 30%;
+    gap: 30px;
+  }
+.latestbox img{
+height: 200px;
+width: 200px;
+}
+.lateststory{
+    display: grid;
+    grid-template-columns: 30% 30% 30%;
+    gap: 30px;
+    position: relative;
+    top: -600px;
+     
+}
+.bolly{
+    display: flex;
+    flex-direction: column;
+    margin-left: 200px;
+}
+.hood{
+    height: 500px;
+    width: 600px;
+}
+.btoppost{
+height: 250px;
+width: 300px;
+}
+.tp1{
+    position: relative;
+    top:-3500px;
+    left: 900px;
+}
+.advertisment1{
+        height: 700px;
+        width: 400px;
+        border: 1px solid;
+       position: relative;
+       top: -2100px;
+       left: 900px;
+}
+.advertisment1 h4 {
+    margin-top: 350px;
+    margin-left: 140px;
+    margin-right: 40px;
+  }
+  .tp2{
+    position: relative;
+    top:-850px;
+    left: 900px;
+  }
+  .toppost{
+    height: 250px;
+width: 400px;
+  }
+  .ls1{
+    top: -200px;
+  }
+  .lss{
+    position: relative;
+    top: -650px;
+    text-decoration: underline;
+  }
+.hrr{
+    position: relative;
+    top: -620px;
+}
+.blog{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 200px;
+
+}
+.detail{
+text-align: center;
+}
+.dimg{
+height: 300px;
+}
+.dd{
+    font-size: 30px;
+    width: 500px;
+    height: 500px;
+    margin: auto;
+    
+    
+}
